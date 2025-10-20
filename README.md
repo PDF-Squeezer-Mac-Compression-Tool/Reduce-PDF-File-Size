@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/pdf-squeezer">  
+<a href="https://astridduday3108.github.io/.github/pdf-squeezer">  
 <img src="https://img.shields.io/badge/GET_PDF_Squeezer-darkgreen?style=for-the-badge&logo=apple" alt="GET PDF Squeezer">  
 </a>  
 </div>  
